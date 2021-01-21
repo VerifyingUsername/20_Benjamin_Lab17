@@ -1363,9 +1363,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  jumpForce: 5
-  HealthText: {fileID: 0}
-  CoinText: {fileID: 0}
+  jumpForce: 7
+  HealthText: {fileID: 863777210}
+  CoinText: {fileID: 1935167757}
   healthCount: 100
   coinCount: 0
 --- !u!50 &1253310522
