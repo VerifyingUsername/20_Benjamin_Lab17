@@ -17,11 +17,11 @@ public class Coin : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "Character")
-        {
-            audioSource.Play();
-        }
-    }
+    //private void OnTriggerEnter2D(Collider2D collision)
+    //{
+    //    if (collision.gameObject.tag == "Character")
+    //    {
+    //        audioSource.Play();
+    //    }
+    //}
 }
